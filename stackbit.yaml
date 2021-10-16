@@ -1,0 +1,98 @@
+stackbitVersion: ~0.3.0
+ssgName: nextjs
+nodeVersion: '12'
+publishDir: out
+pagesDir: data
+models:
+  author:
+    type: page
+    label: Author
+    folder: authors
+    match: '*'
+    fields:
+      - type: string
+        name: name
+        label: Name
+      - type: image
+        name: avatar
+        label: Avatar
+      - type: string
+        name: occupation
+        label: Occupation
+      - type: string
+        name: company
+        label: Company
+      - type: string
+        name: email
+        label: Email
+      - type: string
+        name: twitter
+        label: Twitter
+      - type: string
+        name: linkedin
+        label: Linkedin
+      - type: string
+        name: github
+        label: Github
+  blog:
+    type: page
+    label: Blog
+    folder: blog
+    match: '*'
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: datetime
+        name: date
+        label: Date
+      - type: list
+        name: tags
+        label: Tags
+        items:
+          type: string
+      - type: boolean
+        name: draft
+        label: Draft
+      - type: string
+        name: summary
+        label: Summary
+      - type: list
+        name: authors
+        label: Authors
+        items:
+          type: string
+      - type: date
+        name: lastmod
+        label: Lastmod
+      - type: list
+        name: images
+        label: Images
+        items:
+          type: image
+      - type: string
+        name: layout
+        label: Layout
+  nested_route:
+    type: page
+    label: Nested Route
+    folder: blog/nested-route
+    match: '*'
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: date
+        name: date
+        label: Date
+      - type: list
+        name: tags
+        label: Tags
+        items:
+          type: string
+      - type: boolean
+        name: draft
+        label: Draft
+      - type: string
+        name: summary
+        label: Summary
