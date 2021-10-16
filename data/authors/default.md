@@ -1,16 +1,16 @@
 ---
-name: Tails Azimuth
+name: Joel Bello
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
+occupation: FullStack Developer
+company: Deglotech
 email: address@yoursite.com
-twitter: https://twitter.com/Twitter
+twitter: https://twitter.com/joelnbl
 linkedin: https://www.linkedin.com
-github: https://github.com
+github: https://github.com/joelnbl
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Mi nombre es Joel Bello, soy un estudiante de programación, pero también me gusta todo lo que tiene que ver con el diseño gráfico, manejo varias herramientas de diseño, Soy autodidacta, me gusta la técnología y aprender cada día más sobre las diversas herramientas que van adentrandose cada día al mundo del TI.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+Como persona me auto describo como paciente, y persistente, me gusta aprender y enseñar. Listo para cualquier nuevo tipo de reto, puedes esperar lo mejor de mí.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Mis hobbies son leer, hacer ejercicio, A veces soy un tipo de cientifico loco y experimento cosas con Arduino.

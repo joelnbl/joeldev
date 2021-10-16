@@ -2,7 +2,8 @@ const siteMetadata = {
   title: 'Joelnbl',
   author: 'Joelnbl',
   headerTitle: 'Joelnbl',
-  description: 'A blog created by Joelnbl',
+  description:
+    ' 👨‍💻 FullStack Developer, Eternal Learner 🧑‍🎓 I use a lot 💛 JavaScript & 🐍Python - 🇻🇪 ',
   language: 'en-us',
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
