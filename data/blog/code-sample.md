@@ -1,38 +1,28 @@
 ---
-title: Sample .md file
+title: What is React?
 date: '2016-03-08'
-tags: ['markdown', 'code', 'features']
+tags: ['react', 'code', 'library']
 draft: false
-summary: Example of a markdown file with code blocks and syntax highlighting
+summary: React Library and use
 ---
 
-A sample post with markdown.
+![What is React](https://cdn.hashnode.com/res/hashnode/image/upload/v1628912146552/gKbyVPqp3.png?auto=compress,format&format=webp)
+React is an amazing library for creating highly reactive and super fast JavaScript-driven Web applications.
 
-## Inline Highlighting
+The javascript driven part is especially important because since react is a javascript library it's of course about writing your web apps in JavaScript and that, in turn, is amazing because javascript runs in the browser allows you to create super-fast Web apps that feel like mobile apps.
 
-Sample of inline highlighting `sum = parseInt(num1) + parseInt(num2)`
+The javascript driven part is especially important because since react is a javascript library it's of course about writing your web apps in JavaScript and that, in turn, is amazing because javascript runs in the browser allows you to create super-fast Web apps that feel like mobile apps.
 
-## Code Blocks
+**Users don't have to wait for petrol loads now react is probably the most popular javascript library you can learn these days.**
 
-Some Javascript code
+![react stuff](https://cdn.hashnode.com/res/hashnode/image/upload/v1628912337962/mljQ_64VF.png?auto=compress,format&format=webp)
 
-```javascript
-var num1, num2, sum
-num1 = prompt('Enter first number')
-num2 = prompt('Enter second number')
-sum = parseInt(num1) + parseInt(num2) // "+" means "add"
-alert('Sum = ' + sum) // "+" means combine into a string
-```
+"React is a JavasScript library for building user interfaces".
 
-Some Python code 🐍
+Javascript Library It is about building JavaScript-driven apps. React apps run in the browser. They don't run on the server. We don't have to wait for a server response to get a new page or to render something new.
 
-```python
-def fib():
-    a, b = 0, 1
-    while True:            # First iteration:
-        yield a            # yield 0 to start with and then
-        a, b = b, a + b    # a will now be 1, and b will also be 1, (0 + 1)
+User Interfaces are basically what the user sees and React is all about using components for building these. If you think about it, you can split up any web page into components.
 
-for index, fibonacci_number in zip(range(10), fib()):
-     print('{i:3}: {f:3}'.format(i=index, f=fibonacci_number))
-```
+![UI Tree](https://cdn.hashnode.com/res/hashnode/image/upload/v1628912252902/P4s3LSZuI.png?auto=compress,format&format=webp)
+
+React components can be thought of as custom HTML elements. In the end, you're just writing custom HTML. This is what React is about and it, therefore, solves the problem of having to build complex user interfaces with what HTML and Javascript give you; by writing maintainable, manageable, and reusable pieces.

@@ -1,19 +1,16 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
+    title: 'Expense Tracker',
+    description: `Using React.js to make an amazing app to track your expenses, one of the best funcionality of this app is that you can filter per month and gets a best experience of it.
     for.`,
     imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    href: 'https://github.com/joelnbl/Expense-Tracker',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten handphones with this simple yet affordable solution.`,
+    title: 'HULU Clone',
+    description: `Using React.js, Next.js, Tailwind.css. The Web page is called Hulu Clone an Web App based on streaming..`,
     imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    href: 'https://hulu-2-smoky.vercel.app/',
   },
 ]
 

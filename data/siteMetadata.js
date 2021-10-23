@@ -1,8 +1,9 @@
 const siteMetadata = {
-  title: 'Joelnbl',
+  title: 'Joelnbl | FullStack Developer',
   author: 'Joelnbl',
   headerTitle: 'Joelnbl',
-  description: ' 👨‍💻 FullStack Developer. I use a lot 💛 JavaScript & 🐍Python - 🇻🇪 ',
+  description:
+    ' 👨‍💻 FullStack Developer. I use JavaScript as blood and i am learning Python and C++ 🇻🇪 ',
   language: 'en-us',
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
@@ -13,8 +14,8 @@ const siteMetadata = {
   github: 'https://github.com/joelnbl',
   twitter: 'https://twitter.com/joelnbl',
   // youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
-  locale: 'en-US',
+  linkedin: 'https://www.linkedin.com/in/joelnbl/',
+  locale: 'en-ES',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
     plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
