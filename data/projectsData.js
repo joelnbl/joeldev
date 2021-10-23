@@ -12,6 +12,12 @@ const projectsData = [
     imgSrc: '/static/images/time-machine.jpg',
     href: 'https://hulu-2-smoky.vercel.app/',
   },
+  {
+    title: 'Eyes Tracker',
+    description: `Using JavaScript Vainilla to make an amazing app to track your eyes at the DOM.`,
+    imgSrc: '/static/images/eye-tracking.jpg',
+    href: 'https://joelnbl.github.io/EyesTracker/',
+  },
 ]
 
 export default projectsData
