@@ -18,6 +18,12 @@ const projectsData = [
     imgSrc: '/static/images/eye-tracking.jpg',
     href: 'https://joelnbl.github.io/EyesTracker/',
   },
+  {
+    title: 'BataBit',
+    description: `Simple Web page using HTML and CSS, best practices and mobile first as structure.`,
+    imgSrc: '/static/images/mobileFirst.png',
+    href: 'https://joelnbl.github.io/BataBit/',
+  },
 ]
 
 export default projectsData
