@@ -9,27 +9,22 @@ linkedin: https://www.linkedin.com
 github: https://github.com/joelnbl
 ---
 
-Soy <b>Venezolano</b><br />
-Goooooooooooooooooooooya! <br />
-Vivo en <b>La Guaira</b>.<br />
-Estudio <b>Ingeniería Marítima</b>.<br />
-Trabajo como <strike>Web Developer</strike> <b>FullStack Developer</b> y me especializo en el FrontEnd 🎉<br />
-Me topas en <a target="_blank" href="https://instagram.com/joelnbl">Instagram</a><br />
-Uso <b>una Mac</b><br />
-Uso <b>Linux</b> por gusto<br />
-<strike>Tengo que usar Windows por desgracia </strike><b>wohooooooo!</b><br />
-Tengo una marcada debilidad por <b>aprender y los videojuegos</b><br />
-A veces experimento con <b>Arduino</b> <br />
-Me gusta mucho la fotografía <br />
-Publico cosas de programación en mi blog <b>periódicamente</b><br />
-Disfruto mucho <b>escribiendo</b> (muchas pendejadas) <br />
-…muchas <a href="https://twitter.com/joelnbl">en Twitter</a> <br />
-Por <b>muy pocas</b> cosas me despierto antes de las 6am <br />
-Sólo desayuno <b>tres tazas de café</b> <br />
-Cada vez que puedo <b>salgo de paseo</b> <br />
-Hago ejercicio a <b>diario</b> <br />
-Prefiero <strike>mar que montaña montaña que mar</strike>, sinceramente, ya no sé <br />
-El <b>ron o el whisky</b> hacen decaer de vez en cuando mis facultades mentales <br />
-Si el whisky no me gusta, me vale madres y le echo <b>coca cola </b><br />
-De chico (también) <b>quise ser</b> astronauto, piloto de aviones<br />
-Sigo queriendo ser aprender a volar un avión <br />
+I am <b> Venezuelan </b> <br />
+I live in <b> La Guaira </b>. <br />
+Studying <b> Maritime Engineering </b>. <br />
+I work as a <strike> Web Developer </strike> <b> FullStack Developer </b> and I specialize in FrontEnd 🎉 <br />
+I am on <a target="_blank" href="https://instagram.com/joelnbl"> Instagram </a> <br />
+I use <b> a Mac </b> <br />
+<strike> I have to use Windows unfortunately </strike> I use <b> Linux </b> for pleasure <br />
+I have a marked weakness for <b> learning and video games </b> <br />
+Sometimes I experiment with <b> Arduino </b> <br />
+I really like photography <br />
+I post programming stuff on my blog <b> periodically </b> <br />
+I really enjoy <b> writing </b> (a lot of bullshit) <br />
+… Many <a href="https://twitter.com/joelnbl"> on Twitter </a> <br />
+For <b> very few </b> things I wake up before 6am <br />
+Just breakfast <b> three cups of coffee </b> <br />
+Every time I can <b> I go for a walk </b> <br />
+I exercise <b> daily </b> <br />
+As a child (also) <b> I wanted to be </b> an astronaut, an airplane pilot <br />
+I still want to learn to fly an airplane <br />

@@ -2,8 +2,7 @@ const siteMetadata = {
   title: 'Joelnbl | FullStack Developer',
   author: 'Joelnbl',
   headerTitle: 'Joelnbl',
-  description:
-    ' 👨‍💻 FullStack Developer. I use JavaScript as blood and i am learning Python and C++ 🇻🇪 ',
+  description: 'I use JavaScript everyday, learning Python and having fun with C++ 🇻🇪 ',
   language: 'en-us',
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',

@@ -24,6 +24,18 @@ const projectsData = [
     imgSrc: '/static/images/mobileFirst.png',
     href: 'https://joelnbl.github.io/BataBit/',
   },
+  {
+    title: 'Los Gauchitos',
+    description: `I made this website for an Uruguayan & Argentinean restaurant, pizzeria bakery and market using Wordpress and Elementor Plugin`,
+    imgSrc: '/static/images/losgauchitosmiami.png',
+    href: 'https://losgauchitosmiami.com/',
+  },
+  {
+    title: 'Penelope Magazine',
+    description: `Magazine and Ecommerce based on beauty using Wordpress`,
+    imgSrc: '/static/images/penelopemagazine.png',
+    href: 'https://www.penelopemagazine.com/',
+  },
 ]
 
 export default projectsData
