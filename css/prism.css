@@ -126,3 +126,7 @@
 .token.italic {
   font-style: italic;
 }
+
+.hero-title {
+  color: #6c6af4;
+}

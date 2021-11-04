@@ -1,8 +1,9 @@
 const siteMetadata = {
-  title: 'Joelnbl | FullStack Developer',
+  title: 'Joel Bello',
   author: 'Joelnbl',
   headerTitle: 'Joelnbl',
-  description: 'I use JavaScript everyday, learning Python and having fun with C++ 🇻🇪 ',
+  description:
+    'Full Stack Developer, Skilled in creating software projects from scratch top production. 🇻🇪 ',
   language: 'en-us',
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
@@ -12,11 +13,9 @@ const siteMetadata = {
   email: 'joelumc@gmail.com',
   github: 'https://github.com/joelnbl',
   twitter: 'https://twitter.com/joelnbl',
-  // youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com/in/joelnbl/',
   locale: 'en-ES',
   analytics: {
-    // supports plausible, simpleAnalytics or googleAnalytics
     plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: false, // true or false
     googleAnalyticsId: '', // e.g. UA-000000-2 or G-XXXXXXX
