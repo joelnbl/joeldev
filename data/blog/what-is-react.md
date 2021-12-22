@@ -11,8 +11,6 @@ React is an amazing library for creating highly reactive and super fast JavaScri
 
 The javascript driven part is especially important because since react is a javascript library it's of course about writing your web apps in JavaScript and that, in turn, is amazing because javascript runs in the browser allows you to create super-fast Web apps that feel like mobile apps.
 
-The javascript driven part is especially important because since react is a javascript library it's of course about writing your web apps in JavaScript and that, in turn, is amazing because javascript runs in the browser allows you to create super-fast Web apps that feel like mobile apps.
-
 **Users don't have to wait for petrol loads now react is probably the most popular javascript library you can learn these days.**
 
 ![react stuff](https://cdn.hashnode.com/res/hashnode/image/upload/v1628912337962/mljQ_64VF.png?auto=compress,format&format=webp)

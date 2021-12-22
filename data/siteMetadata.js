@@ -3,7 +3,7 @@ const siteMetadata = {
   author: 'Joelnbl',
   headerTitle: 'Joelnbl',
   description:
-    'Full Stack Developer, Skilled in creating software projects from scratch top production. 🇻🇪 ',
+    'Full Stack Developer, Skilled in creating software projects from scratch to production. 🇻🇪 ',
   language: 'en-us',
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
